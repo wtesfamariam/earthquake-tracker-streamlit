@@ -1,5 +1,6 @@
 # Global Earthquake Tracker
 An interactive Streamlit dashboard for exploring recent global seismic activity, built for my Data Collection and Analysis course. Pulls the last 30 days of earthquake data straight from the USGS Earthquakes API.
+In short: a tool that shows where earthquakes have happened around the world in the last month, and lets you filter by how strong they were.
 
 **[Live demo](https://earthquake-tracker-wt.streamlit.app/)**
 
